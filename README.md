@@ -1,5 +1,3 @@
-# [Instakilo](https://instakilo.salimi.my) &middot; [![Author Salimi](https://img.shields.io/badge/Author-Salimi-%3C%3E)](https://www.linkedin.com/in/mohamad-salimi/)
-
 This is Instagram clone created using Next.js for educational purposes. User can login using Google login API, make posts with images, like posts and comment on posts.
 
 ## Exact copy of Instagram UI
