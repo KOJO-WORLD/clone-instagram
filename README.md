@@ -31,8 +31,6 @@ yarn run dev
 ## Demo
 
 The app hosted on Vercel. [Click here](https://instakilo.salimi.my) to visit.
-<br>
-Direct link: `https://instakilo.salimi.my`
 
 ## Screenshots
 
